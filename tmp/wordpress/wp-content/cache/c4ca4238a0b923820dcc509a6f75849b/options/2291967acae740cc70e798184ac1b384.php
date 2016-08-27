@@ -1,0 +1,3 @@
+<?php
+//s:549:"a:23:{s:9:"useposter";i:0;s:10:"posterpath";s:0:"";s:9:"imagetype";s:3:"jpg";s:12:"posterinfeed";i:0;s:7:"flvpath";s:0:"";s:9:"backcolor";s:6:"FFFFFF";s:10:"frontcolor";s:6:"000000";s:10:"lightcolor";s:6:"000000";s:11:"screencolor";s:6:"000000";s:4:"logo";s:0:"";s:4:"link";s:0:"";s:11:"overstretch";s:3:"fit";s:13:"largecontrols";i:0;s:9:"showicons";i:1;s:10:"showdigits";i:1;s:12:"showfsbutton";i:1;s:8:"showstop";i:0;s:10:"showvolume";i:1;s:14:"showcontrolbar";i:1;s:9:"autostart";i:1;s:12:"bufferlength";i:5;s:6:"volume";i:80;s:7:"sitemap";i:0;}";
+?>

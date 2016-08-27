@@ -1,0 +1,3 @@
+
+  pixelWidth: 3008
+  pixelHeight: 2000

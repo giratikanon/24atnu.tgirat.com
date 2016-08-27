@@ -1,0 +1,5 @@
+
+  pixelWidth: 3008
+  pixelHeight: 2000
+  description: 
+  artist: 

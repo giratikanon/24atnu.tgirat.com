@@ -1,0 +1,269 @@
+/*  
+
+Theme Name: 24 at NU
+
+Theme URI: http://wordpress.org/
+
+Description: The default WordPress theme based on the famous <a href="http://binarybonsai.com/kubrick/">Kubrick</a>.
+
+Version: 1.0
+
+Author: Tom Giratikanon
+
+Author URI: http://binarybonsai.com/
+
+
+
+	Kubrick v1.5
+
+	 http://binarybonsai.com/kubrick/
+
+
+
+	This theme was designed and built by Michael Heilemann,
+
+	whose blog you will find at http://binarybonsai.com/
+
+
+
+	The CSS, XHTML and design is released under GPL:
+
+	http://www.opensource.org/licenses/gpl-license.php
+
+	
+
+
+
+	*** REGARDING IMAGES ***
+
+	All CSS that involves the use of images, can be found in the 'index.php' file.
+
+	This is to ease installation inside subdirectories of a server.
+
+
+
+	Have fun, and don't be afraid to contact me if you have questions.
+
+*/
+
+
+
+body { margin: 0; background: #2f2f2f url(http://www.24atnu.com/img/bg.png) repeat-x; color: white; font-family: "arial"; }
+
+h1,h2,h3,h4 { margin: 0; }
+
+a { color: white; text-decoration: none; }
+
+a:hover { color: #efc946; }
+
+#wrapper { width: 950px; margin: 0 auto; } 
+
+#header { margin: 20px 0 0 0; }
+
+	#header-sub { text-transform: uppercase; font-size: 12px; }
+
+	#header-left { width: 500px; }
+
+	#header-left img { margin-bottom: 0px; }
+
+	#header-right { width: 430px; height: 65px; text-align: right; }
+
+		#header-right a { color: white; font-size:24px;  padding-right: 20px; }
+
+		#header-right a:hover { color: #efc946;  }
+
+#navigation { height: 25px; margin: 15px 0 0 0;} 
+
+	#navigation-hour { background-color: #666666; width: 114px; margin-right: 2px; float: left; padding: 0 0 0 2px; font-weight: bold;}
+
+	a#hour-link { color: #ccc; }
+
+	a#hour-link:hover div { background-color: #333; color: white; }
+
+#content { margin: 20px 0 20px 0; } 
+
+	#video-player { width: 700px; margin: 0 20px 0 0; float: left; }
+
+	#story-summary { width: 230px; float: left; height: 543px;}
+
+		#story-summary h2 { text-transform: uppercase; font-size: 36px; margin-bottom: 10px; }
+
+		#story-summary h3 { font-size: 24px;}
+
+		#story-summary h4 { font-size: 20px; }
+
+		#story-description { vertical-align: top; }
+
+		#summary-text { margin-top: 10px; line-height: 130%; font-size: 11pt; }
+
+		#next-story { font-size: 18px; font-weight: bold; margin-top: 100px; text-transform: uppercase; text-align: right; height: 60px; vertical-align: bottom;}
+
+#social { clear: both; }
+
+	#comments { width: 550px; margin: 0 20px 20px 0; float: left; }
+
+		#comments-header { font-weight: bold; font-size: 14px; background-color: #444; padding: 5px; text-transform: uppercase; margin-bottom: 10px;}
+
+		#comment { border-bottom: 2px solid #666; padding: 20px 0; }
+
+			#comment h3 { font-size: 12px; }
+
+			#comment p { }
+
+			#comment h4 { font-size: 12px; font-style: italic; }
+
+	#more { width: 380px; float: left; margin-bottom: 20px;}
+
+		#more-header { background-color: black; font-size: 14px; padding: 5px; text-transform: uppercase;}
+
+		#more-body { background-color: #666; padding: 20px 25px;}
+
+		#more-picture { width: 330px; border: 0;}
+
+		#more-caption { font-weight: strong; font-size: 16px; }
+
+		#more-related h3 { margin-top: 10px; }
+
+
+
+.Style1 {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+
+
+	font-size: 10pt;
+
+
+
+	color: #FFFFFF;
+
+
+
+}
+
+
+
+
+
+
+
+.biglink {
+
+
+
+	font-family : Verdana;
+
+
+
+	font-size: 12pt;
+
+
+
+	font-weight: bold;
+
+
+
+	color: #FFFFFF;
+
+
+
+	text-decoration: none
+
+
+
+}
+
+
+
+.biglink:hover {
+
+
+
+	font-family: Verdana;
+
+
+
+	color: #0099FF;
+
+
+
+	text-decoration: none
+
+
+
+}
+
+
+
+
+
+
+
+.link {
+
+
+
+	font-family : Verdana;
+
+
+
+	font-size: 10pt;
+
+
+
+	font-weight: bold;
+
+
+
+	color: #FFFFFF;
+
+
+
+	text-decoration: none
+
+
+
+}
+
+
+
+.link:hover {
+
+
+
+	font-family: Verdana;
+
+
+
+	color: #0099FF;
+
+
+
+	text-decoration: underline
+
+
+
+}
+
+
+
+
+
+
+
+.Style2 {
+
+
+
+	font-size: 12pt;
+
+
+
+	font-weight: bold;
+
+
+
+}

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<icons>
+<icon image="/img/6a_chef_final.jpg" action="/wordpress/the-chef/index.html" rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" target="_self" titre="6 AM" desc="The Chef"/>
+<icon image="/img/7a_officer_final.jpg" action="/wordpress/the-officer/index.html" rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" target="_self" titre="7 AM" desc="The Officer"/>
+<icon image="/img/8a_class_final.jpg" rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-engineers/index.html" target="_self" titre="8 AM" desc="The Engineers"/>
+<icon image="/img/9a_archivist_final.jpg" rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" target="_self" action="/wordpress/the-archivist/index.html" titre="9 AM" desc="The Archivist"/>
+<icon image="/img/10a_ta_final.jpg"  rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-ta/index.html" target="_self" titre="10 AM" desc="The T.A."/>
+
+<icon image="/img/11a_professor_final.jpg"  rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-professor/index.html" target="_self" titre="11 AM" desc="The Professor"/>
+<icon image="/img/12p_hpme_final.jpg"  rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-doctors/index.html" target="_self" titre="12 PM" desc="The Doctors"/>
+
+<icon image="/img/1p_spokesman_final.jpg" rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/alan-cubbage/index.html" target="_self" titre="1 PM" desc="The Spokesman"/>
+
+<icon image="/img/2p_inventors_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-inventors/index.html" target="_self" titre="2 PM" desc="The Inventors"/>
+
+<icon image="/img/3p_musician_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-musician/index.html" target="_self" titre="3 PM" desc="The Musicians"/>
+
+<icon image="/img/4p_fencers_final.jpg" rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-fencers/index.html" target="_self" titre="4 PM" desc="The Fencers"/>
+
+<icon image="/img/5p_aviation_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-flyers/index.html" target="_self" titre="5 PM" desc="The Flyers"/>
+
+<icon image="/img/6p_skaters_final.jpg" action="/wordpress/the-skater/index.html" rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" target="_self" titre="6 PM" desc="The Skater"/>
+<icon image="/img/7p_dancer_final.jpg" action="/wordpress/the-dancer/index.html" rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" target="_self" titre="7 PM" desc="The Dancer"/>
+<icon image="/img/8p_volunteers_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-volunteers/index.html" target="_self" titre="8 PM" desc="The Volunteers"/>
+
+
+<icon image="/img/9p_faithful_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-faithful/index.html" target="_self" titre="9 PM" desc="The Faithful"/>
+<icon image="/img/10p_partying_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-partygoers/index.html" target="_self" titre="10 PM" desc="The Partygoers"/>
+
+<icon image="/img/11p_overheard_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-blogger/index.html" target="_self" titre="11 PM" desc="The Blogger"/> 
+
+<icon image="/img/12a_activist_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-activists/index.html" target="_self" titre="12 AM" desc="The Activist"/>
+
+<icon image="/img/1a_driver_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-driver/index.html" target="_self" titre="1 AM" desc="The Driver"/>
+
+
+<icon image="/img/2a_core_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/core/index.html" target="_self" titre="2 AM" desc="The Crammer"/>
+
+<icon image="/img/3a_wnur_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/wnur/index.html" target="_self" titre="3 AM" desc="The Host"/>
+
+<icon image="/img/4a_nightowls_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-night-owls/index.html" target="_self" titre="4 AM" desc="The Night Owls"/>
+
+<icon image="/img/5a_earlybirds_final.jpg"rel="shadowbox[gallery];options={counterType:'skip',continuous:true}" action="/wordpress/the-early-birds/index.html" target="_self" titre="5 AM" desc="The Early Birds"/>
+
+
+
+
+
+
+
+
+
+
+</icons>

@@ -1,0 +1,3 @@
+<?php
+//O:8:"stdClass":23:{s:2:"ID";s:1:"6";s:10:"user_login";s:3:"abe";s:9:"user_pass";s:32:"20423222c979d667904870fd78e23066";s:13:"user_nicename";s:3:"abe";s:10:"user_email";s:24:"a-rakov@northwestern.edu";s:8:"user_url";s:7:"http://";s:15:"user_registered";s:19:"2008-03-01 00:37:07";s:19:"user_activation_key";s:0:"";s:11:"user_status";s:1:"0";s:12:"display_name";s:9:"Abe Rakov";s:10:"first_name";s:3:"Abe";s:9:"last_name";s:5:"Rakov";s:8:"nickname";s:3:"abe";s:11:"description";s:0:"";s:6:"jabber";s:0:"";s:3:"aim";s:0:"";s:3:"yim";s:0:"";s:15:"wp_capabilities";a:1:{s:6:"author";b:1;}s:13:"wp_user_level";s:1:"2";s:10:"user_level";s:1:"2";s:14:"user_firstname";s:3:"Abe";s:13:"user_lastname";s:5:"Rakov";s:16:"user_description";s:0:"";}
+?>
